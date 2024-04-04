@@ -7,6 +7,12 @@ int i;                  // index of array element
 
 void input()
 {
+    while (true)
+    {
+        
+       
+    }
+
     
 }
 
